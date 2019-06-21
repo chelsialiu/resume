@@ -11,3 +11,9 @@
 	font-style: italic;
 	font-size: 2rem;
 }
+
+/*---------------------------------Education Styles---------------------------------*/
+#education-images {
+	height: 400px;
+	width: 600px;
+}
